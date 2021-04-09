@@ -1,6 +1,6 @@
 # What is this?
 
-Create beautify gallery slides with Rexy Gallery. Display your images with style.
+Create beautiful gallery slides with Rexy Gallery. Display your images with style.
 
 # Installation
 
@@ -23,7 +23,6 @@ caption: "hello there....",
 },
 ],
 });
-
 ...
 
 ## Options
