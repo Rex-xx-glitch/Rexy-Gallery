@@ -1,8 +1,8 @@
 {
   "name": "rexy-gallery",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Create beautiful gallery slides with Rexy Gallery. Display your images with style.",
-  "main": "scripts/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

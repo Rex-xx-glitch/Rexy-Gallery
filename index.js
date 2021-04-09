@@ -3,7 +3,7 @@ import {
   AnimateMainImage,
   changeCurrent,
   loadUI,
-} from "./helperFunctions";
+} from "./scripts/helperFunctions";
 
 export default class Rexy {
   constructor(root, options) {
