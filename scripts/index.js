@@ -5,7 +5,7 @@ import {
   loadUI,
 } from "./helperFunctions";
 
-class Rexy {
+export default class Rexy {
   constructor(root, options) {
     this.root = root;
     this.options = {
