@@ -12,10 +12,6 @@ Then...
 import Rexy from "rexy-gallery";
 
 const rexy = new Rexy(document.querySelector(".gallery"), {
-  loop: false,
-  speed: 1000,
-  autoPlay: false,
-  animate: true,
   images: [
     {
       url: "images/1.jpeg",
